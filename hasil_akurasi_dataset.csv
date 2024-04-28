@@ -1,0 +1,5 @@
+Pertanyaan,Jawaban,Akurasi
+pagi,selamat kak kak gimana kan,0.41804326
+selamat malam,selamat malam juga,0.8835595
+apakah ada alat bawa dalam flutter untuk debugging,ya flutter dilengkapi dengan alat bawaan seperti flutter inspector yang memungkinkan anda untuk men debug tata letak widget widget widget hierarki widget dan properti widget secara langsung dalam aplikasi,0.7241556
+bagaimana cara analis masalah kerja dalam aplikasi flutter,anda dapat menggunakan alat seperti flutter devtools untuk men debug masalah performa dalam flutter termasuk memeriksa properti widget hierarki dan mendiagnosis masalah tata letak,0.5970452
